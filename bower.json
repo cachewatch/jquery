@@ -1,0 +1,25 @@
+{
+	"name": "cachewatch-jquery",
+	"version": "0.0.4",
+	"dependencies": {
+		"jquery" : ">=1.3.0"
+	},
+	"description": "Wrapper for CacheWatch in jQuery",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:cachewatch/jquery.git"
+	},
+	"authors": [
+		"alejonext"
+	],
+	"ignore": [
+		"md",
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests",
+		"routes/cdn/components/"
+	]
+}

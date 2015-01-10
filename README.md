@@ -11,6 +11,6 @@ cacheWatch.ready();
 
 Look the body 
 ```html
-<body ... data-ready="loading|ready">
+<body|html ... data-ready="loading|ready">
 
 ```
